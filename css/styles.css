@@ -1,0 +1,128 @@
+/********************************TAG SELECTORS********************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+  font-size: 1.3rem;
+  line-height: 2;
+  color: #40514E
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.625rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'PT Mono', monospace;
+  color: #73af00;
+}
+
+p {
+  font-weight: lighter;
+}
+
+hr {
+  border: 1rem dotted #8CA1A5;
+  border-bottom: none;
+  width: 7%;
+  margin: 1.875rem auto;
+}
+a {
+  text-decoration: none;
+  color: #11999E;
+  margin: 1.2rem 1.2rem;
+  font-family: 'PT Mono', monospace;
+}
+a:hover {
+  color: #EAF6F6;
+}
+/*******************************CLASS SELECTORS*******************************/
+
+.top-container {
+  background-color: #E4FBFF;
+  padding-top: 7.5rem;
+  position: relative;
+}
+.firtP {
+  padding-bottom: 0;
+}
+
+.secondP {
+  padding: 1.25rem;
+}
+
+.line {
+  text-decoration: underline;
+}
+.topCloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottomCloud {
+  position: absolute;
+  left: 12.5rem;
+  bottom: 16.25rem;
+}
+.mountain {
+  width: 25rem;
+}
+
+.middle-container {
+  width: 60%;
+  margin: auto;
+}
+
+.skills-row {
+  text-align: left;
+}
+
+.mind-image {
+  width: 20%;
+  float: left;
+}
+
+.game-image {
+  width: 20%;
+  float: right;
+}
+
+.skills-p {
+  font-size: 1.5rem;
+  color: #6ECB63;
+}
+.myButton {
+	background-color:#22b3b5;
+	border-radius:1rem;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Zilla Slab', serif;
+  font-weight: bold;
+	font-size:1rem;
+	padding:1rem 2.25rem;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#23c282;
+}
+.myButton:active {
+	position:relative;
+	top:0.2rem;
+}
+
+.bottom-container {
+  background-color: #A8E7E9;
+  padding: 3rem;
+  margin-top: 4rem;
+}
+.copyrights {
+  font-size: 1rem;
+}
+.Icons {
+  text-align: right;
+  font-size: 0.8rem;
+}

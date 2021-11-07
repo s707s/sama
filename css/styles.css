@@ -37,7 +37,7 @@ a {
   font-family: 'PT Mono', monospace;
 }
 a:hover {
-  color: #EAF6F6;
+  color: #40514E;
 }
 /*******************************CLASS SELECTORS*******************************/
 
@@ -115,7 +115,7 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #A8E7E9;
+  background: linear-gradient(#C1FFD7, #D3FFE2);
   padding: 3rem;
   margin-top: 4rem;
 }

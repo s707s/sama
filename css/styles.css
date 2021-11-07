@@ -42,7 +42,7 @@ a:hover {
 /*******************************CLASS SELECTORS*******************************/
 
 .top-container {
-  background-color: #E4FBFF;
+  background: linear-gradient(#E4FBFF,#C9FAE3);
   padding-top: 7.5rem;
   position: relative;
 }
